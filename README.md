@@ -79,4 +79,4 @@ PressSecBotPlus is Copyright © 2017 by Rob Mathers and licensed under the MIT l
 guatebot is Copyright © 2017 by valerybriz and licensed under the GNU General Public License v3.0. You may do what you like with the software, but must include the [license and copyright notice](https://github.com/valerybriz/guatebot/blob/master/LICENSE). 
 
 ### jQueryEmoji license
-[jQueryEmoji](https://github.com/rodrigopolo/jqueryemoji) is used in this code and is Copyright (c) by Rodrigo Polo [http://RodrigoPolo.com](http://RodrigoPolo.com) and licensed under the MIT License.
+[jQueryEmoji](https://github.com/rodrigopolo/jqueryemoji) is used in this code and is Copyright (c) by Rodrigo Polo and licensed under the MIT License.
