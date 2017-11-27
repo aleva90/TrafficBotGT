@@ -1,5 +1,5 @@
 # TrafficBotGT
-A bot that follows the traffic reports of Guatemala City on Twitter, inspired by @RealPressSecBot, @PressSecBotPlus and @guatebot.
+A bot that follows the traffic reports of Guatemala City on Twitter, inspired by @RealPressSecBot, @PressSecBotPlus and @guatebot. Follow TrafficBotGT on Twitter as [@@TrafficBotGT](https://twitter.com/TrafficBotGT)
 
 ###Contents
 1. [About](#about)
